@@ -17,6 +17,11 @@ This application allows users to:
 
 ---
 
+## screenshot
+<img width="359" alt="Screenshot 2568-06-15 at 19 22 56" src="https://github.com/user-attachments/assets/8e1f3414-cf8e-4125-be49-1ee8be6e11ad" />
+
+---
+
 ## Getting Started
 
 ### 1. Clone the repo
